@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Thierry
+- prénom : Bryan
+- URL Netlify : https://peppy-belekoy-00b71e.netlify.app
 
 # Travail
 
