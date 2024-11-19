@@ -13,7 +13,7 @@ if (carousel) {
 
   // Scroll au clic sur le bouton suivant
   nextButton.addEventListener("click", () => {
-    carousel.scrollBy({left: +260, behavior: "smooth" });
+    carousel.scrollBy({right: scrollAmount, behavior: "smooth" });
   });
 }
 
